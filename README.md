@@ -10,16 +10,16 @@ I am **Dika Mahendra**, the humble keeper of both the forge and the alchemy tabl
 In the fires of codecraft and the cauldron of data, I've honed my skills to become a masterful full-stack developer. Behold my arsenal of abilities:
 
 **🐘 PHP in Laravel and CakePHP**\
-As skilled as a blacksmith forging a blade, I craft robust web applications with these tools.\
+As skilled as a blacksmith forging a blade, I craft robust web applications with these tools.
 
 **🧬 JavaScript and TypeScript with React and Vue**\
-I wield the elements of the web, creating interactive user experiences that rival the grandest of quests.\
+I wield the elements of the web, creating interactive user experiences that rival the grandest of quests.
 
 **☕ Java using Springboot and JPOS**\
-Like a knight in shining armor, I champion the realm of server-side Java, ensuring reliability and security.\
+Like a knight in shining armor, I champion the realm of server-side Java, ensuring reliability and security.
 
 **🎯 Dart using Flutter**\
-Flutter, my trusty steed, carries me to the lands of cross-platform mobile app development.\
+Flutter, my trusty steed, carries me to the lands of cross-platform mobile app development.
 
 **📖 The Sacred Books of Vishanti Keeper**\
 Within my sanctum lies a treasure trove of database knowledge such as PostgreSQL, MySQL, and Microsoft SQL Server. I am the keeper of these databases, ensuring their integrity and unleashing their power for noble quests.
@@ -35,7 +35,7 @@ Feel free to reach out and send a raven or a message through the digital carrier
 
 __Can't you just look what's under my avatar?__ 🥱
 
-## 🏰 Regards and safe travels on your own digital quests,
+🏰 Regards and safe travels on your own digital quests,
 
 🔮 Dika Mahendra
 
